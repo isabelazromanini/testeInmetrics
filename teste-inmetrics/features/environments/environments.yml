@@ -1,0 +1,12 @@
+dev:
+    HOST_API_TESTE: 'https://inm-api-test.herokuapp.com/v2/api-docs'
+
+
+#     LINK PARA API_TESTE EM AMBIENTE DE PRODUCAO
+# prod: 
+#     HOST_API_TESTE: ''
+
+
+#     LINK PARA API_TESTE EM AMBIENTE DE HOMOLOGACAO 
+# homolog: 
+#     HOST_API_TESTE: ''
